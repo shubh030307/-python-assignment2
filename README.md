@@ -23,7 +23,7 @@
    
    2. Loop from 1 to 50:
       - `for i in range(1, 51):` -> Iterates from 1 to 50 (since `range(1,51)` excludes 51).
-      - `sum += i` -? Adds each number in the range to `sum`.
+      - `sum += i` -> Adds each number in the range to `sum`.
    
    3. Print the Total Sum: 
       - `print( "The sum of the number from 1 to 50 is :",sum)` -> Displays the final sum of numbers from 1 to 50.
