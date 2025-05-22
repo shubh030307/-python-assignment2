@@ -1,7 +1,7 @@
 # -python-assignment2
 ### TASK 1
    Functionality:
-   1. *User Input: 
+   1. User Input: 
       - `num = int(input("Enter the number: "))` -> Takes a number from the user and converts it to an integer.
    
    2. Even/Odd Check: 
